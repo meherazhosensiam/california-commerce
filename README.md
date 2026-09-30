@@ -1,5 +1,5 @@
 # California Commerce
-
+This app contains AI assisted code. with my own modification. 
 California Commerce is a deliberately vulnerable, synthetic e-commerce/business-services application for **isolated, authorized OWASP Top 10:2025 training**. It is not a secure reference implementation.
 
 OWASP Top 10:2025 defines A01 Broken Access Control, A02 Security Misconfiguration, A03 Software Supply Chain Failures, A04 Cryptographic Failures, A05 Injection, A06 Insecure Design, A07 Authentication Failures, A08 Software or Data Integrity Failures, A09 Security Logging and Alerting Failures, and A10 Mishandling of Exceptional Conditions.
